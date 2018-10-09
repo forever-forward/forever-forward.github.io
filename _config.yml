@@ -7,7 +7,7 @@
 
 # Site settings
 title: 李同的科研专栏
-brief-intro: Quantum Computing and Machine Learning
+brief-intro: 量子计算与机器学习
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://forever-forward.github.io" # the base hostname & protocol for your site
 
